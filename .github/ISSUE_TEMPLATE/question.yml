@@ -1,0 +1,33 @@
+name: ❓ Question
+description: Leave your questions about the patches or other things.
+title: 'question: <title>: '
+labels: [question]
+body:
+  - type: dropdown
+    attributes:
+      label: Application
+      options:
+        - YouTube
+        - YouTube Music
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: Add a clear and detailed description of the question.
+      placeholder: Attach images/videos if possible. These can be helpful in figuring out what the question is about.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: Your issue will be closed if you haven't done these steps.
+      options:
+        - label: I have searched the existing issues and this is a new and no duplicate or related to another open issue.
+          required: true
+        - label: I have written a short but informative title.
+          required: true
+        - label: I filled out all of the requested information in this issue properly.
+          required: true
