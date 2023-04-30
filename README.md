@@ -1,8 +1,10 @@
-# ReVanced Extended Issue Center
+# Issue Center
 
 The purpose of this repository is to help you report any issues you encounter or register new suggestions.
 
 Before writing an issue, first check if the same issue has been reported before.
+
+Also, issue is closed if template is ignored.
 ___
 ## How to report?
 
@@ -10,7 +12,7 @@ Head over to the [Issues Page](https://github.com/inotia00/ReVanced_Extended/iss
 ___
 ## Have a Vanced MicroG bug?
 
-Head over to the [Vanced MicroG Issues Page](https://github.com/inotia00/VancedMicroG/issues)
+Vanced MicroG is discontinued
 ___
 ## Have a RVX Builder bug?
 
