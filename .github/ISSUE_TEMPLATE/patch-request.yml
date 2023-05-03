@@ -9,6 +9,7 @@ body:
       options:
         - YouTube
         - YouTube Music
+        - mMicroG
     validations:
       required: true
   - type: textarea
