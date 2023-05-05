@@ -21,7 +21,7 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: Tools
+      label: Tools used
       options:
         - ReVanced Manager
         - rvx-builder
