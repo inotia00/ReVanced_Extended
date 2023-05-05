@@ -10,11 +10,11 @@ ___
 
 Head over to the [Issues Page](https://github.com/inotia00/ReVanced_Extended/issues/new/choose), Choose a label and fill it out according to the form
 ___
-## Have a Vanced MicroG bug?
+## Have a Vanced MicroG issue?
 
 Vanced MicroG is discontinued
 ___
-## Have a RVX Builder bug?
+## Have a RVX Builder issue?
 
 Head over to the [RVX Builder Issues Page](https://github.com/inotia00/rvx-builder/issues)
 ___
@@ -29,6 +29,9 @@ ___
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended">
+        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/revanced_extended_repo">
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
     </a>&nbsp;&nbsp;&nbsp;
 </p>
