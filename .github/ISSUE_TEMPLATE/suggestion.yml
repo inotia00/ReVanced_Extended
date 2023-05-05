@@ -1,7 +1,7 @@
-name: ⭐ Patch Request
-description: Create a detailed patch request.
-title: 'feat(patch): '
-labels: [patch-request]
+name: 📜 Suggestion
+description: Leave any other suggestions about the patches or other things.
+title: 'suggestion: <title>: '
+labels: [suggestion]
 body:
   - type: dropdown
     attributes:
@@ -10,25 +10,14 @@ body:
         - YouTube
         - YouTube Music
         - mMicroG
+        - Other
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Issue
-      description: What is the issue this patch should solve?
-    validations:
-      required: true
-  - type: textarea
-    attributes:
-      label: Patch
-      description: "Describe the patch you'd like to see in detail."
-      placeholder: Add screenshots if needed.
-    validations:
-      required: true
-  - type: textarea
-    attributes:
-      label: Motivation
-      description: Why should your patch request should be considered? What makes it valuable to the community?
+      label: Description
+      description: Add a clear and detailed description of the suggestion.
+      placeholder: Attach images/videos if possible. These can be helpful in figuring out what the suggestion is about.
     validations:
       required: true
   - type: checkboxes

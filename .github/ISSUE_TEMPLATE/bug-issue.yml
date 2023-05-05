@@ -19,6 +19,16 @@ body:
         - Other
     validations:
       required: true
+  - type: dropdown
+    attributes:
+      label: Tools
+      options:
+        - ReVanced Manager
+        - rvx-builder
+        - Revancify
+        - CLI
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Application
@@ -83,4 +93,8 @@ body:
         - label: I have written a short but informative title.
           required: true
         - label: I filled out all of the requested information in this issue properly.
+          required: true
+        - label: I have written the title and contents in English.
+          required: true
+        - label: This issue does not reproduce on unpatched YouTube or YT Music.
           required: true

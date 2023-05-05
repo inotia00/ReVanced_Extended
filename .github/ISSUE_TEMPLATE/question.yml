@@ -9,6 +9,7 @@ body:
       options:
         - YouTube
         - YouTube Music
+        - mMicroG
         - Other
     validations:
       required: true
@@ -30,4 +31,6 @@ body:
         - label: I have written a short but informative title.
           required: true
         - label: I filled out all of the requested information in this issue properly.
+          required: true
+        - label: I have written the title and contents in English.
           required: true
