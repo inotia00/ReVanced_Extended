@@ -37,11 +37,13 @@ body:
       label: Acknowledgements
       description: Your issue will be closed if you haven't done these steps.
       options:
-        - label: I have searched the existing issues and this is a new and no duplicate or related to another open issue.
+        - label: I have searched the existing issues and this is not a duplicate or related to another open issue.
+          required: true
+        - label: This is not a feature request for YouTube.
           required: true
         - label: I have written a short but informative title.
           required: true
-        - label: I filled out all of the requested information in this issue properly.
+        - label: I properly filled out all of the requested information in this issue.
           required: true
         - label: I have written the title and contents in English.
           required: true
