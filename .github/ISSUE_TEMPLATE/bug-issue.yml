@@ -33,7 +33,7 @@ body:
     attributes:
       label: Application
       description: Write down the application and version where the issue occurs.
-      placeholder: e.g. YouTube v18.16.39
+      placeholder: e.g. YouTube v18.33.40
     validations:
       required: true
   - type: textarea

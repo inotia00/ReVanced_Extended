@@ -9,7 +9,6 @@ body:
       options:
         - YouTube Music
         - Reddit
-        - mMicroG
     validations:
       required: true
   - type: textarea

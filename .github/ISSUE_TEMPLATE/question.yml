@@ -9,7 +9,6 @@ body:
       options:
         - YouTube
         - YouTube Music
-        - mMicroG
         - Other
     validations:
       required: true
