@@ -23,7 +23,7 @@ body:
     attributes:
       label: Tools used
       options:
-        - ReVanced Manager
+        - RVX Manager
         - rvx-builder
         - Revancify
         - CLI
