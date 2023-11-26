@@ -56,11 +56,6 @@ body:
       render: shell
   - type: textarea
     attributes:
-      label: Screenshots or videos
-      description: Add screenshots or videos that show the bug here.
-      placeholder: Drag and drop the screenshots/videos into this box.
-  - type: textarea
-    attributes:
       label: Solution
       description: If applicable, add a possible solution to the bug.
   - type: textarea
