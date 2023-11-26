@@ -1,8 +1,17 @@
 name: 📜 Suggestion
 description: Leave any other suggestions about the patches or other things.
-title: 'suggestion: <title>: '
-labels: [suggestion]
+title: 'suggestion: '
+labels: ['Suggestion']
 body:
+  - type: markdown
+    attributes:
+      value: |
+        # ReVanced Extended suggestion
+
+        Before creating a new suggestion, please keep the following in mind:
+
+        - **Do not submit a duplicate suggestion**: You can review existing suggestion [here](https://github.com/inotia00/ReVanced_Extended/labels/Suggestion).
+        - **Do not write feature requests**: This is a suggestion, not a feature request.
   - type: dropdown
     attributes:
       label: Application
@@ -14,24 +23,23 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Description
-      description: Add a clear and detailed description of the suggestion.
-      placeholder: Attach images/videos if possible. These can be helpful in figuring out what the suggestion is about.
-    validations:
-      required: true
+      label: Suggestion description
+      description: |
+        - Describe your question in detail
+        - Add images and videos if possible
   - type: checkboxes
     id: acknowledgements
     attributes:
       label: Acknowledgements
       description: Your issue will be closed if you haven't done these steps.
       options:
-        - label: I have searched the existing issues and this is a new and no duplicate or related to another open issue.
+        - label: This issue is not a duplicate of an existing suggestion.
           required: true
-        - label: This is not a feature request for YouTube.
+        - label: This is not a feature request.
           required: true
-        - label: I have written a short but informative title.
+        - label: I have chosen an appropriate title.
           required: true
-        - label: I filled out all of the requested information in this issue properly.
+        - label: All requested information has been provided properly.
           required: true
         - label: I have written the title and contents in English.
           required: true
