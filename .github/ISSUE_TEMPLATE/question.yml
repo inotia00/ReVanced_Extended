@@ -10,7 +10,7 @@ body:
 
         Before creating a new question, please keep the following in mind:
 
-        - **Do not submit a duplicate question**: You can review existing question [here](https://github.com/inotia00/ReVanced_Extended/labels/Question).
+        - **Do not submit a duplicate question**: You can review existing questions [here](https://github.com/inotia00/ReVanced_Extended/labels/Question).
   - type: dropdown
     attributes:
       label: Application
