@@ -10,10 +10,6 @@ ___
 
 Head over to the [Issues Page](https://github.com/inotia00/ReVanced_Extended/issues/new/choose), Choose a label, and fill it out according to the form.
 ___
-## Have a Vanced MicroG issue?
-
-Vanced MicroG development was discontinued.
-___
 ## Have a RVX Builder issue?
 
 Head over to the [RVX Builder Issues Page](https://github.com/inotia00/rvx-builder/issues)
