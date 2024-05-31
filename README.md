@@ -27,6 +27,9 @@ ___
     <a href="https://t.me/revanced_extended">
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
     </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/revanced_extended_chat">
+        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_repo">
         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
     </a>&nbsp;&nbsp;&nbsp;
