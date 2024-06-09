@@ -22,21 +22,39 @@ ___
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://reddit.com/r/revancedextended">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/reddit-logo-flat-circle.png" />
+         <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/reddit-logo-flat-circle.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/reddit-logo-flat-circle.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_chat">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_repo">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://crowdin.com/project/revancedextended">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://crowdin.com/project/revancedmusicextended">
-        <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
 </p>
