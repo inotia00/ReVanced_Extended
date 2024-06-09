@@ -47,13 +47,13 @@ ___
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://crowdin.com/project/revancedextended">
         <picture>
-            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-white.png" />
             <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://crowdin.com/project/revancedmusicextended">
         <picture>
-            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-white.png" />
             <img height="24px" src="https://raw.githubusercontent.com/KobeW50/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
