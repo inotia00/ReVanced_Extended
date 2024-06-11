@@ -17,20 +17,44 @@ ___
 <p align="left">
     <a href="https://github.com/inotia00/revanced-documentation/wiki">
         <picture>
-            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-            <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/github-mark-white.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/github-mark.png" />
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://reddit.com/r/revancedextended">
-        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
+         <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/reddit-logo-flat-circle.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/reddit-logo-flat-circle.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended">
-        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_chat">
-        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/revanced_extended_repo">
-        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/telegram-logo.png" />
+        </picture>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://crowdin.com/project/revancedextended">
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/crowdin-logo-white.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        </picture>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://crowdin.com/project/revancedmusicextended">
+        <picture>
+            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/crowdin-logo-white.png" />
+            <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/crowdin-logo-dark.png" />
+        </picture>
     </a>&nbsp;&nbsp;&nbsp;
 </p>
