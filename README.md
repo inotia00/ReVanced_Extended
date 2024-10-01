@@ -2,17 +2,19 @@
 
 The purpose of this repository is to help you report any issues you encounter and submit new suggestions.
 
-Before writing an issue, first check if the same issue has been reported before.
-
-Also, issues will be closed if template is ignored.
+Before writing an issue, first check if the same issue has been reported before. Issues will be closed if the form is not filled out properly.
 ___
 ## How to report?
 
-Head over to the [Issues Page](https://github.com/inotia00/ReVanced_Extended/issues/new/choose), Choose a label, and fill it out according to the form.
+Head over to the [Issues Page](https://github.com/inotia00/ReVanced_Extended/issues/new/choose), choose a label, and fill it out according to the form.
 ___
 ## Have a RVX Builder issue?
 
 Head over to the [RVX Builder Issues Page](https://github.com/inotia00/rvx-builder/issues)
+___
+## New to ReVanced Extended?
+
+Head over to the [documentation](https://github.com/inotia00/revanced-documentation#readme) to learn how to build ReVanced Extended apps!
 ___
 <p align="left">
     <a href="https://github.com/inotia00/revanced-documentation/wiki">
