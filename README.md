@@ -17,7 +17,7 @@ ___
 Head over to the [documentation](https://github.com/inotia00/revanced-documentation#readme) to learn how to build ReVanced Extended apps!
 ___
 <p align="left">
-    <a href="https://github.com/inotia00/revanced-documentation/wiki">
+    <a href="https://github.com/inotia00/revanced-documentation#readme">
         <picture>
             <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/github-mark-white.png" />
             <img height="24px" src="https://raw.githubusercontent.com/inotia00/ReVanced_Extended/main/.github/images/github-mark.png" />
