@@ -77,7 +77,9 @@ body:
           required: true
         - label: This issue is not a duplicate of an existing bug report.
           required: true
-        - label: I didn't use any settings marked as `Experimental Flags`.
+        - label: I did not use any settings marked as `Experimental Flags`.
+          required: true
+        - label: I have patched the APK according to the [documentation](https://github.com/inotia00/revanced-documentation#readme).
           required: true
         - label: I have chosen an appropriate title.
           required: true
