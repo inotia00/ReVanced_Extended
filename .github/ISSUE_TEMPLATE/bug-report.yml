@@ -79,6 +79,8 @@ body:
           required: true
         - label: I did not use any settings marked as `Experimental Flags`.
           required: true
+        - label: I did not use `pre-release` (dev branch).
+          required: true
         - label: I have patched the APK according to the [documentation](https://github.com/inotia00/revanced-documentation#readme).
           required: true
         - label: I have chosen an appropriate title.
