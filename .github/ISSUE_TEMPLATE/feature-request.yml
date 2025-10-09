@@ -55,3 +55,5 @@ body:
           required: true
         - label: I have written the title and contents in English.
           required: true
+        - label: This feature is not for feature unlocking. Required for YT based app
+          required: false
