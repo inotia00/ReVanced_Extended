@@ -75,7 +75,9 @@ body:
       options:
         - label: This issue does not reproduce on unpatched YouTube or YT Music.
           required: true
-        - label: This issue is not a duplicate of an existing bug report.
+        - label: This issue also does not reproduce on original ReVanced Youtube or Revanced YT Music.
+          required: true
+        - label: This issue is not a duplicate of an existing bug report [check here](https://github.com/inotia00/ReVanced_Extended/issues).
           required: true
         - label: I did not use any settings marked as `Experimental Flags`.
           required: true
