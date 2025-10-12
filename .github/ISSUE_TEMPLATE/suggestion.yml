@@ -33,7 +33,7 @@ body:
       label: Acknowledgements
       description: Your issue will be closed if you haven't done these steps.
       options:
-        - label: This issue is not a duplicate of an existing suggestion.
+        - label: This issue is not a duplicate of an [existing suggestion](https://github.com/inotia00/ReVanced_Extended/issues?q=label%3ASuggestion).
           required: true
         - label: This is not a feature request.
           required: true
