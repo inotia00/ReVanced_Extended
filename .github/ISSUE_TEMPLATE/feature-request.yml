@@ -47,7 +47,7 @@ body:
       options:
         - label: This is not a feature request for YouTube.
           required: true
-        - label: This issue is not a duplicate of an existing feature request.
+        - label: This issue is not a duplicate of an [existing feature request](https://github.com/inotia00/ReVanced_Extended/issues?q=label%3A%22Feature%20request%22).
           required: true
         - label: I have chosen an appropriate title.
           required: true
