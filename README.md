@@ -1,4 +1,4 @@
-Check out our Platforms [here](https://linktr.ee/ReVanced_Extended)
+# Check out our Platforms [here](https://linktr.ee/ReVanced_Extended)
 ___
 # Issue/Request Center
 
