@@ -36,7 +36,7 @@ body:
     attributes:
       label: Application
       description: Write down the application and version where the issue occurs.
-      placeholder: e.g. YouTube v19.16.39
+      placeholder: e.g. YouTube v19.16.39 (revanced-patches-5.12.1)
     validations:
       required: true
   - type: textarea
@@ -77,7 +77,7 @@ body:
           required: true
         - label: This issue also does not reproduce on original ReVanced Youtube or Revanced YT Music.
           required: true
-        - label: This issue is not a duplicate of an existing bug report [check here](https://github.com/inotia00/ReVanced_Extended/issues).
+        - label: This issue is not a duplicate of an existing bug report [check here](https://github.com/inotia00/ReVanced_Extended/issues?q=is%3Aissue).
           required: true
         - label: I did not use any settings marked as `Experimental Flags`.
           required: true
