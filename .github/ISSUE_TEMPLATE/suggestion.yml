@@ -11,7 +11,7 @@ body:
         Before creating a new suggestion, please keep the following in mind:
 
         - **Do not submit a duplicate suggestion**: You can review existing suggestions [here](https://github.com/inotia00/ReVanced_Extended/labels/Suggestion).
-        - **Do not write feature requests**: This is a suggestion, not a feature request.
+        - **Do not write feature requests**: This is for suggestions, not feature requests.
   - type: dropdown
     attributes:
       label: Application
@@ -31,9 +31,9 @@ body:
     id: acknowledgements
     attributes:
       label: Acknowledgements
-      description: Your issue will be closed if you haven't done these steps.
+      description: Your issue will be closed if these acknowledgements are not met.
       options:
-        - label: This issue is not a duplicate of an [existing suggestion](https://github.com/inotia00/ReVanced_Extended/issues?q=label%3ASuggestion).
+        - label: This issue is not a duplicate of an [existing suggestion](https://github.com/inotia00/ReVanced_Extended/labels/Suggestion).
           required: true
         - label: This is not a feature request.
           required: true
