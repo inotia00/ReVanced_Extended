@@ -11,7 +11,7 @@ body:
         Before creating a new feature request, please keep the following in mind:
 
         - **Do not submit a duplicate feature request**: You can review existing feature requests [here](https://github.com/inotia00/ReVanced_Extended/labels/Feature%20request).
-        - **Do not write feature requests targeting YouTube**: Due to too many feature requests targeting YouTube, DEV is no longer accepting them.
+        - **Do not write feature requests targeting YouTube**: Due to too many feature requests targeting YouTube, the developer is no longer accepting them.
   - type: dropdown
     attributes:
       label: Application
