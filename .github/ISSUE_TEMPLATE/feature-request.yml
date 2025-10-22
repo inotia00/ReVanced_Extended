@@ -43,11 +43,13 @@ body:
     id: acknowledgements
     attributes:
       label: Acknowledgements
-      description: Your issue will be closed if you haven't done these steps.
+      description: Your issue will be closed if these acknowledgements are not met.
       options:
         - label: This is not a feature request for YouTube.
           required: true
-        - label: This issue is not a duplicate of an existing feature request.
+        - label: This issue is not a duplicate of an [existing feature request](https://github.com/inotia00/ReVanced_Extended/labels/Feature%20request).
+          required: true
+        - label: This feature is not to unlock a server-sided feature.
           required: true
         - label: I have chosen an appropriate title.
           required: true
@@ -55,5 +57,3 @@ body:
           required: true
         - label: I have written the title and contents in English.
           required: true
-        - label: This feature is not for premium unlocking. Required for YT based app
-          required: false

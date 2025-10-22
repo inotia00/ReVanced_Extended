@@ -30,9 +30,9 @@ body:
     id: acknowledgements
     attributes:
       label: Acknowledgements
-      description: Your issue will be closed if you haven't done these steps.
+      description: Your issue will be closed if these acknowledgements are not met.
       options:
-        - label: This issue is not a duplicate of an existing question.
+        - label: This issue is not a duplicate of an [existing question](https://github.com/inotia00/ReVanced_Extended/labels/Question).
           required: true
         - label: I have chosen an appropriate title.
           required: true
