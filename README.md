@@ -16,7 +16,8 @@ ___
 
 Head over to the [Documentation Page](https://github.com/inotia00/revanced-documentation#readme) to learn how to build ReVanced Extended apps!
 ___
-Our social media
+## Links
+
 <p align="left">
     <a href="https://github.com/inotia00/revanced-documentation#readme">
         <picture>

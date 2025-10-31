@@ -1,5 +1,5 @@
 name: 🐞 Bug report
-description: Report a bug or an issue.
+description: Report a bug or issue.
 title: 'bug: '
 labels: ['Bug report']
 body:
@@ -71,15 +71,15 @@ body:
     id: acknowledgements
     attributes:
       label: Acknowledgements
-      description: Your bug report will be closed if you don't follow the checklist below.
+      description: Your issue will be closed if these acknowledgements are not met.
       options:
-        - label: This issue does not reproduce on unpatched YouTube or YT Music.
+        - label: This issue does not reproduce in the unpatched app.
           required: true
-        - label: This issue also does not reproduce on original ReVanced Youtube or Revanced YT Music.
+        - label: This issue does not reproduce in the ReVanced version of the app.
           required: true
-        - label: This issue is not a duplicate of an existing bug report [check here](https://github.com/inotia00/ReVanced_Extended/issues?q=is%3Aissue).
+        - label: This issue is not a duplicate of an [existing bug report](https://github.com/inotia00/ReVanced_Extended/labels/Bug%20report).
           required: true
-        - label: I did not use any settings marked as `Experimental Flags`.
+        - label: I did not use any settings marked as `Experimental flags`.
           required: true
         - label: I have patched the APK according to the [documentation](https://github.com/inotia00/revanced-documentation#readme).
           required: true
