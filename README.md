@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src=".github/images/RVX-logo.png" alt="RVX logo" width="128">
+<img src=".github/images/logo.png" alt="RVX logo" width="128">
 
 
     
